@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # projetoReactAula
 Projeto de aula de React
 =======
@@ -71,3 +72,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 >>>>>>> subindo projeto
+=======
+# projetosite
+Site para fins academicos
+>>>>>>> 8986fbd162b9859228249a7d088488f819fe0180
